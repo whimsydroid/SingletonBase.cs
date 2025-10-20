@@ -1,4 +1,4 @@
-# SingletonBase.cs — A Reusable Singleton Pattern for Unity  
+# SingletonBase.cs — A Reusable Singleton for Unity  
 ### Made with whimsy by [Whimsy Droid](https://linktr.ee/whimsydroid) 🤖💫  
 
 ### Description
