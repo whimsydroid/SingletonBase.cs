@@ -26,7 +26,7 @@ It automatically handles duplicates, optional scene persistence, and lazy initia
    }
 2. Add the derived class to any GameObject in your scene.
 3. Access it from anywhere using:
-	AudioManager.Instance.PlayClick();
+   `AudioManager.Instance.PlayClick();`
 
 
 
