@@ -24,12 +24,14 @@ It automatically handles duplicates, optional scene persistence, and lazy initia
    {
        public void PlayClick() => Debug.Log("Click Sound Played");
    }
+````
 2. Add the derived class to any GameObject in your scene.
 3. Access it from anywhere using:
-   ```csharp
+```csharp
    AudioManager.Instance.PlayClick();
-4. (Optional) Enable “Don’t Destroy On Load” in the inspector to persist across scenes.
 ````
+4. (Optional) Enable “Don’t Destroy On Load” in the inspector to persist across scenes.
+
 ---
 
 ### Example
