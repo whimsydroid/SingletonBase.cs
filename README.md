@@ -55,18 +55,19 @@ It automatically handles duplicates, optional scene persistence, and lazy initia
 
 ---
 
-💾 Download & Explore
-
+🤖 Deploy This Module
+Grab the script from your favorite hub and integrate it into your Unity project!
 - [Payhip](https://payhip.com/whimsydroid)
 - [Gumroad](https://whimsydroid.gumroad.com/)
-- 🚀 Support Development:
-	* [Ko-fi](https://ko-fi.com/whimsydroid)
-	* [Patreon](https://patreon.com/whimsydroid)
-	* [GitHub Sponsors](https://github.com/sponsors/whimsydroid)
 
+🔋 Recharge the Droid
+Your support keeps Whimsy Droid coding, compiling, and beeping happily 💫
+- [Ko-fi](https://ko-fi.com/whimsydroid) - send a quick energy boost
+- [Patreon](https://patreon.com/whimsydroid) - behind-the-scenes & early access
+- [GitHub Sponsors](https://github.com/sponsors/whimsydroid) - power up development directly
 
-🎥 Follow Whimsy Droid
-	  Stay connected for updates, new free tools, and video tutorials!
+🎥 Join the Droid Network
+Connect with other curious devs, catch new tools, and see cute robots in action!
 - 📺 [YouTube](https://www.youtube.com/@whimsydroid)
 - 📘 [Facebook](https://www.facebook.com/whimsydroid)
 - 📸 [Instagram](https://www.instagram.com/whimsydroid)
