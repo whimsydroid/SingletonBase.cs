@@ -33,6 +33,7 @@ It automatically handles duplicates, optional scene persistence, and lazy initia
 ---
 
 ### Example
+   ```csharp
     public class GameManager : SingletonBase<GameManager>
 	{
 	    public int CurrentScore { get; private set; }
