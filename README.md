@@ -52,7 +52,7 @@ It automatically handles duplicates, optional scene persistence, and lazy initia
 
 ### Usage:
 ````csharp
-	GameManager.Instance.AddScore(100);`
+	GameManager.Instance.AddScore(100);
 ````
 
 ---
