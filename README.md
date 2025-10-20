@@ -57,13 +57,12 @@ It automatically handles duplicates, optional scene persistence, and lazy initia
 
 💾 Download & Explore
 
-- 🐙 GitHub Repository:[Whimsy Droid](https://github.com/whimsydroid)
 - [Payhip](https://payhip.com/whimsydroid)
 - [Gumroad](https://whimsydroid.gumroad.com/)
 - 🚀 Support Development:
-	• [Ko-fi](https://ko-fi.com/whimsydroid)
-  	• [Patreon](https://patreon.com/whimsydroid)
- 	• [GitHub Sponsors](https://github.com/sponsors/whimsydroid)
+* [Ko-fi](https://ko-fi.com/whimsydroid)
+* [Patreon](https://patreon.com/whimsydroid)
+* [GitHub Sponsors](https://github.com/sponsors/whimsydroid)
 
 
 🎥 Follow Whimsy Droid
