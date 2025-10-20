@@ -62,11 +62,15 @@ Grab the script from your favorite hub and integrate it into your Unity project!
 - [Payhip](https://payhip.com/whimsydroid)
 - [Gumroad](https://whimsydroid.gumroad.com/)
 
+---
+
 🔋 Recharge the Droid
 Your support keeps Whimsy Droid coding, compiling, and beeping happily 💫
 - [Ko-fi](https://ko-fi.com/whimsydroid) - send a quick energy boost
 - [Patreon](https://patreon.com/whimsydroid) - behind-the-scenes & early access
 - [GitHub Sponsors](https://github.com/sponsors/whimsydroid) - power up development directly
+
+---
 
 🎥 Join the Droid Network
 Connect with other curious devs, catch new tools, and see cute robots in action!
