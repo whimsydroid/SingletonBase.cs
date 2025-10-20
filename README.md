@@ -1,5 +1,32 @@
-# SingletonBase.cs - Singleton Base Class
-A generic reusable singleton pattern for Unity managers and systems. Prevents duplicate instances and optionally keeps the object alive across scenes.
+# 🌈 SingletonBase.cs — A Reusable Singleton Pattern for Unity  
+### Made with whimsy by [Whimsy Droid](https://linktr.ee/whimsydroid) 🤖💫  
+
+
+A lightweight, generic Singleton pattern for Unity that ensures only one instance of a manager or system exists at a time.  
+It automatically handles duplicates, optional scene persistence, and lazy initialization — perfect for Game Managers, Audio Managers, and other global controllers.
+
+---
+
+## ✨ Features
+- 🧩 **Generic & Reusable** — works for any `MonoBehaviour` type  
+- ⚙️ **Thread-Safe Lazy Access** pattern  
+- 🎮 **Auto-Creates Instance** if missing  
+- 💾 **Optional “Don’t Destroy On Load”** behavior  
+- 🧼 **Safely Destroys Duplicates**  
+
+---
+
+## 🧰 Setup
+
+1. **Create a new class** inheriting from `SingletonBase<T>`:
+   ```csharp
+   public class AudioManager : SingletonBase<AudioManager>
+   {
+       public void PlayClick() => Debug.Log("Click Sound Played");
+   }
+2. Add the derived class to any GameObject in your scene.
+3. Access it from anywhere using:
+	AudioManager.Instance.PlayClick();
 
 
 
