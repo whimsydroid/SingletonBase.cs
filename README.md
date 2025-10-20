@@ -33,7 +33,7 @@ It automatically handles duplicates, optional scene persistence, and lazy initia
 ---
 
 ### Example
-   ```csharp
+   ```csharp 
     public class GameManager : SingletonBase<GameManager>
 	{
 	    public int CurrentScore { get; private set; }
@@ -44,7 +44,8 @@ It automatically handles duplicates, optional scene persistence, and lazy initia
 	        Debug.Log($"Score updated: {CurrentScore}");
 	    }
 	}
-
+	```
+	
 ---
 
 ### Usage:
