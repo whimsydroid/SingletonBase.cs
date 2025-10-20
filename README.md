@@ -27,7 +27,7 @@ It automatically handles duplicates, optional scene persistence, and lazy initia
 2. Add the derived class to any GameObject in your scene.
 3. Access it from anywhere using:
    ```csharp
-   AudioManager.Instance.PlayClick();```
+   AudioManager.Instance.PlayClick();
 4. (Optional) Enable “Don’t Destroy On Load” in the inspector to persist across scenes.
 
 ---
