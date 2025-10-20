@@ -57,14 +57,14 @@ It automatically handles duplicates, optional scene persistence, and lazy initia
 
 ---
 
-🤖 Deploy This Module
+## 🤖 Deploy This Module
 Grab the script from your favorite hub and integrate it into your Unity project!
 - [Payhip](https://payhip.com/whimsydroid)
 - [Gumroad](https://whimsydroid.gumroad.com/)
 
 ---
 
-🔋 Recharge the Droid
+## 🔋 Recharge the Droid
 Your support keeps Whimsy Droid coding, compiling, and beeping happily 💫
 - [Ko-fi](https://ko-fi.com/whimsydroid) - send a quick energy boost
 - [Patreon](https://patreon.com/whimsydroid) - behind-the-scenes & early access
@@ -72,12 +72,28 @@ Your support keeps Whimsy Droid coding, compiling, and beeping happily 💫
 
 ---
 
-🎥 Join the Droid Network
+## 🎥 Join the Droid Network
 Connect with other curious devs, catch new tools, and see cute robots in action!
 - 📺 [YouTube](https://www.youtube.com/@whimsydroid)
 - 📘 [Facebook](https://www.facebook.com/whimsydroid)
 - 📸 [Instagram](https://www.instagram.com/whimsydroid)
 - 🎵 [TikTok](https://www.tiktok.com/@whimsydroid)
 - 🐦 [X (Twitter)](https://x.com/whimsydroid)
+
+---
+
+## 💌 Let’s Build Together!  
+Whimsy Droid loves hearing from fellow developers 🤖💖  
+
+If you have feedback, ideas, or a tool you’d love to see next — let us know!  
+Your suggestions might inspire the next Whimsy Droid creation. ✨  
+
+🗨️ **Reach out anytime:**  
+- Comment or open an issue on [GitHub](https://github.com/whimsydroid)  
+- Share your ideas on [YouTube](https://www.youtube.com/@whimsydroid) or [Facebook](https://www.facebook.com/whimsydroid) / [Instagram](https://www.instagram.com/whimsydroid) / [TikTok](https://www.tiktok.com/@whimsydroid) / [X (Twitter)](https://x.com/whimsydroid)
+- Or just say hi on [Ko-fi](https://ko-fi.com/whimsydroid) / [Patreon](https://patreon.com/whimsydroid) / [GitHub Sponsors](https://github.com/sponsors/whimsydroid) - power up development directly
+
+Let’s make game dev a little cuter and a lot easier — together. 💫  
+> 🤖 From Whimsy Droid with love 💖 — tiny cute tools for big developer dreams.
 
 
