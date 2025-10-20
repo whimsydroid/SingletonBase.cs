@@ -49,8 +49,9 @@ It automatically handles duplicates, optional scene persistence, and lazy initia
 ---
 
 ### Usage:
-	
-	`GameManager.Instance.AddScore(100);`
+````csharp
+	GameManager.Instance.AddScore(100);`
+````
 
 ---
 
@@ -73,5 +74,4 @@ It automatically handles duplicates, optional scene persistence, and lazy initia
 - 🎵 [TikTok](https://www.tiktok.com/@whimsydroid)
 - 🐦 [X (Twitter)](https://x.com/whimsydroid)
 
-	```
 
