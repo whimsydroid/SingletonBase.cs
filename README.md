@@ -19,7 +19,7 @@ It automatically handles duplicates, optional scene persistence, and lazy initia
 ## 🧰 Setup
 
 1. **Create a new class** inheriting from `SingletonBase<T>`:
-   ```csharp
+````
    public class AudioManager : SingletonBase<AudioManager>
    {
        public void PlayClick() => Debug.Log("Click Sound Played");
@@ -29,11 +29,11 @@ It automatically handles duplicates, optional scene persistence, and lazy initia
    ```csharp
    AudioManager.Instance.PlayClick();
 4. (Optional) Enable “Don’t Destroy On Load” in the inspector to persist across scenes.
-
+````
 ---
 
 ### Example
-   ```csharp 
+ ````
     public class GameManager : SingletonBase<GameManager>
 	{
 	    public int CurrentScore { get; private set; }
@@ -44,13 +44,13 @@ It automatically handles duplicates, optional scene persistence, and lazy initia
 	        Debug.Log($"Score updated: {CurrentScore}");
 	    }
 	}
-	```
-	
+````	
+
 ---
 
 ### Usage:
 	
-	GameManager.Instance.AddScore(100);
+	`GameManager.Instance.AddScore(100);`
 
 ---
 
@@ -73,5 +73,5 @@ It automatically handles duplicates, optional scene persistence, and lazy initia
 - 🎵 [TikTok](https://www.tiktok.com/@whimsydroid)
 - 🐦 [X (Twitter)](https://x.com/whimsydroid)
 
-	
+	```
 
